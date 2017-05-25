@@ -19,7 +19,7 @@ His research interests include Computer Vision, Machine Learning and Computer Gr
 
 ## Projects
 
-### -Fish Motion Capture and Retargeting by Monocular Camera 
+### 1. Fish Motion Capture and Retargeting by Monocular Camera 
 (2016/05 – 2017/05)
 
 ![FishImg](img/Fish.png)
@@ -29,47 +29,29 @@ Motion capture and retargeting of fish generally have difficulties in marker att
 Publication: to appear.
 
 
-### -Part Implementation of STL 
+### 2. Part Implementation of STL 
 (2016/04 – 2016/05)
-<div class="col-lg-12 media">
-                    <div class="media-left media-middle">
-                        <img class="project-image" src="img/project/UnifiedMotionPlanner.jpg">
-                    </div>
-                    <div class="project-description media-body media-middle">
-                        <p class="project-title">
-                            Unified Motion Planner for Fishes with Various Swimming Styles
-                        </p>
-                        <p class="project-author">
-                            Daiki Satoi, Mikihiro Hagiwara, Akira Uemoto, Hisanao Nakadai, and Junichi Hoshino
-                        </p>
-                        <p class="project-publication">
-                            ACM Transactions on Graphics (SIGGRAPH) 2016
-                        </p>
-                        <p class="project-link">
-                            [<a href="http://entcomp.esys.tsukuba.ac.jp/en/project/unified-motion-planner/">Project page</a>][<a href="http://entcomp.esys.tsukuba.ac.jp/en/project/unified-motion-planner/file/UnifiedMotionPlanner_Paper.pdf">Paper</a>][<a href="https://www.youtube.com/watch?v=IeR5cV7nhKs">YouTube</a>]
-                        </p>
-                    </div>
-                </div>
+
 [//]: # () ![STL Design Diagram](img/XFSTL.png)
 
 Partly implemented the C++ standard template library (STL), including several types of containers (vector, list, deque), their corresponding iterators (ordinary iterator, constant iterator, reverse iterator), a few container adaptors (stack, queue, priority_queue) and some common algorithms (sort, find). Mainly used C++ features include low-level memory management, specialization and the part specialization of template, function object, etc.
 
-### -Ray Tracer 
+### 3. Ray Tracer 
 (2016/03 – 2016/04)
 
 ![CornellBox](img/Cornell Box.png)
 
 Implemented a ray tracer as an offline renderer. This renderer has a parser to analysis model files containing triangles and spheres. The scene is then rendered within global illumination. In particular, it provides support for reflection, refraction, soft shadow and color bleeding. In addition, the rendering process is speeded up by using OpenMP to accomplish thresh-level parallelization.
 
-### -Pascal Compiler 
+### 4. Pascal Compiler 
 (2015/09 – 2016/02)
 
-<img src="img/compiler.png"  alt="目标代码" height="100%" width="100%"/>
+[//]: # () <img src="img/compiler.png"  alt="目标代码" height="100%" width="100%"/>
 
 Implemented a Pascal Compiler using C++. The compiler can process Pascal source code and transfer it to
 the Intel-i386 assembly code. The assembled executable program can be run on Windows operating system. The compiler provides fully support for nested functions, recursion callings of functions, and the parameter passing either by values or references.
 
-### -Spammer Detection in Social Networks 
+### 5. Spammer Detection in Social Networks 
 (2013/06 – 2014/05)
 
 ![SpamDetection](img/spam detection performance.png)
@@ -81,37 +63,13 @@ Publication:
 孟祥飞, 徐路, 王思雨. 基于新浪微博的社交网络垃圾用户分析与检测[J]. 科技与创新, 2014(15):125-127. [`[`pdf`]`](paper/基于新浪微博的社交网络垃圾用户分析与检测.pdf)  
 张宇翔, 孙菀, 杨家海, 周达磊, 孟祥飞, & 肖春景. 新浪微博反垃圾中特征选择的重要性分析[J]. 通信学报, 2016, 37(8):24-33. [`[`pdf`]`](paper/新浪微博反垃圾中特征选择的重要性分析.pdf)
 
-### -Moving Object Tracking 
+### 6. Moving Object Tracking 
 (2012/06 – 2013/05)
 
 ![4cars](img/4cars.png)
 
 Moving object tracking is a classical problem in the field of Computer Vision, since it can provide essential information of the shape and motion of the foreground region. We implemented a moving object tracking system, which can track moving objects through image sequences taken by a static camera in real time. First, the system identifies foreground and background pixels through Gaussian Mixture Model, which is a pixel-wise process. Then it uses a morphology-open filter to eliminate the salt-and-pepper noise and employ the component analysis to label the salient components as foreground objects. Afterwards, the corresponding between consecutive frames is accomplished by a Max A Priori algorithm, and the splitting, merging, appearing and vanishing of objects is handled meanwhile. Finally, the trajectories of detected objects are estimated by a group of Kalman Filters. The system is robust to slight shaking of camera and the gradual change of light. It is able to process 20 frames (640×480 pixels) per second  with 2.9GHz processor and 4GB memory.
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DreamChaserMXF/dreamchasermxf.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Organization
 [State Key Laboratory of Virtual Reality Technology and System](http://vrlab.buaa.edu.cn/)  
