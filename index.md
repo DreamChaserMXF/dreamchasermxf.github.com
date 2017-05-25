@@ -5,6 +5,10 @@ Xiangfei Meng is currently a second-year master's degree candidate under supervi
 His research interests include Computer Vision, Machine Learning and Computer Graphics. Recently, he specifically focuses on data-driven animation generating approaches.
 
 ## Education
+|Time|School|Phase|Ranking|
+|:--|:--|:--|:--|
+|2|B|P|T|
+
 | Time| School|  Phase| Ranking|
 | :---------------- | :------------------------------------- | :--------- | :--------- |
 | 2015/09 – 2018/03	| Beihang University| Postgraduate| Top 5%|
