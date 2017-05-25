@@ -6,7 +6,7 @@ His research interests include Computer Vision, Machine Learning and Computer Gr
 
 ## Education
 | Time        | School    |  Phase       | Ranking  |
-| ------------- |:-----------------| :-----| :--|
+| :------------- |:-----------------| :-----| :--|
 | 2015/09 – 2018/03 | Beihang University					| Postgraduate  | Top 5% |
 | 2011/09 – 2015/06 | Civial Aviation University of China	| Undergraduate |  Top 5% |
 | 2008/09 – 2011/06 | Taiyuan No. 5 Middle School			| Senior High	| Top 30%|
