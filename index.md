@@ -4,7 +4,7 @@ Xiangfei Meng is currently a second-year master's degree candidate under supervi
 
 His research interests include Computer Vision, Machine Learning and Computer Graphics. Recently, he specifically focuses on data-driven animation generating approaches.
 
-## Education
+# Education
 
 | Time				| School								 |  Phase      | Ranking	|
 | :---------------- | :------------------------------------- | :---------   | :--------- |
@@ -12,14 +12,14 @@ His research interests include Computer Vision, Machine Learning and Computer Gr
 | 2011/09 – 2015/06 | Civial Aviation University of China	| Undergraduate |  Top 5%	|
 | 2008/09 – 2011/06 | Taiyuan No. 5 Middle School			| Senior High	| Top 30%	|
 
-## Skills
+# Skills
 1. Experienced **C/C++** programming skills with good coding style.
 2. Familiar with **Computer Vision**, **Machine Learning** and **Computer Graphics**.
 3. Proficient in English reading and writing, fluent oral English.
 
-## Projects
+# Projects
 
-### 1. Fish Motion Capture and Retargeting by Monocular Camera 
+## 1. Fish Motion Capture and Retargeting by Monocular Camera 
 (2016/05 – 2017/05)
 
 ![FishImg](img/Fish.png)
@@ -29,25 +29,25 @@ Motion capture and retargeting of fish generally have difficulties in marker att
 Publication: to appear.
 
 
-### 2. Part Implementation of STL 
+## 2. Part Implementation of STL 
 (2016/04 – 2016/05)  
 
 Partly implemented the C++ standard template library (STL), including several types of containers (vector, list, deque), their corresponding iterators (ordinary iterator, constant iterator, reverse iterator), a few container adaptors (stack, queue, priority_queue) and some common algorithms (sort, find). Mainly used C++ features include low-level memory management, specialization and the part specialization of template, function object, etc.
 
-### 3. Ray Tracer 
+## 3. Ray Tracer 
 (2016/03 – 2016/04)
 
 ![CornellBox](img/Cornell Box.png)
 
 Implemented a ray tracer as an offline renderer. This renderer is equipped with a parser to analysis model files containing triangles and spheres. The scene is then rendered within global illumination, which includes effects of reflection, refraction, soft shadow and color bleeding. In addition, the rendering process is speeded up by using OpenMP to accomplish thresh-level parallelization.
 
-### 4. Pascal Compiler 
+## 4. Pascal Compiler 
 (2015/09 – 2016/02)  
 
 Implemented a Pascal Compiler using C++. The compiler can process Pascal source code and transfer it to
 the Intel-i386 assembly code. The assembled executable program can be run on Windows operating system. The compiler provides fully support for nested functions, recursion callings of functions, and the parameter passing either by values or references.
 
-### 5. Spammer Detection in Social Networks 
+## 5. Spammer Detection in Social Networks 
 (2013/06 – 2014/05)
 
 ![SpamDetection](img/spam detection performance.png)
@@ -58,7 +58,7 @@ Publication:
 孟祥飞, 徐路, 王思雨. 基于新浪微博的社交网络垃圾用户分析与检测[J]. 科技与创新, 2014(15):125-127. [pdf](paper/基于新浪微博的社交网络垃圾用户分析与检测.pdf)  
 张宇翔, 孙菀, 杨家海, 周达磊, 孟祥飞, 肖春景. 新浪微博反垃圾中特征选择的重要性分析[J]. 通信学报, 2016, 37(8):24-33. [pdf](paper/新浪微博反垃圾中特征选择的重要性分析.pdf)
 
-### 6. Moving Object Tracking 
+## 6. Moving Object Tracking 
 (2012/06 – 2013/05)
 
 ![4cars](img/4cars.png)
