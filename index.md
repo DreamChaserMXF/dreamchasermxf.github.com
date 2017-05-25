@@ -5,15 +5,17 @@ Xiangfei Meng is currently a second-year master's degree candidate under supervi
 His research interests include Computer Vision, Machine Learning and Computer Graphics. Recently, he specifically focuses on data-driven animation generating approaches.
 
 ## Education
-1. 2015/09 - 2018/03	Beihang University
-
 | Time        | School    |  Phase       | Ranking  |
 | ------------- |:-----------------| :-----| :--|
 | 2015/09 – 2018/03 | Beihang University					| Postgraduate  | Top 5% |
 | 2011/09 – 2015/06 | Civial Aviation University of China	| Undergraduate |  Top 5% |
 | 2008/09 – 2011/06 | Taiyuan No. 5 Middle School			| Senior High	| Top 30%|
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Skills
+1. Experienced **C/C++** programming skills with good coding style.
+2. Familiar with **Computer Vision**, **Machine Learning** and **Computer Graphics**.
+3. Proficient in English reading and writing, fluent oral English.
+
 
 ```markdown
 Syntax highlighted code block
