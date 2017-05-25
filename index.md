@@ -3,9 +3,8 @@
 Xiangfei Meng is currently a second-year master's degree candidate under supervision of Professor [Hong Qin](https://www.cs.stonybrook.edu/people/faculty/HongQin) at State Key Laboratory of Virtual Reality Technology and System, School of Computer Science and Engineering (SCSE), [Beihang University](http://www.buaa.edu.cn/) (BUAA). He received his bachelor's degree in Computer Science and Technology from [Civial Aviation University of China](http://www.cauc.edu.cn/zh/) (CAUC) as an "Outstanding Graduate" in 2015. He got the [Top-10 College Students Award](http://www.cauc.edu.cn/news/3723.html) in October, 2014. After that, he passed the National Entrance Examination for Postgraduate for SCSE, BUAA in December, 2014 as the top-score student and attended BUAA as a postgraduate in September, 2015.
 
 ### Email
-MengXiangfei_job@163.com
-
-XiangfeiMeng@buaa.edu.cn
+&ensp;&ensp;[MengXiangfei_job@163.com](mailto:MengXiangfei_job@163.com) (for recruiting business)  
+[XiangfeiMeng@buaa.edu.cn](mailto:XiangfeiMeng@buaa.edu.cn) (for academic business)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
