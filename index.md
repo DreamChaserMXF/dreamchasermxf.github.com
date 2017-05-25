@@ -1,6 +1,6 @@
 # Xiangfei Meng (孟祥飞)
 
-Xiangfei Meng is currently a second-year master's degree candidate under supervision of Professor [Hong Qin](https://www.cs.stonybrook.edu/people/faculty/HongQin) at State Key Laboratory of Virtual Reality Technology and Systems, School of Computer Science and Engineering (SCSE), [Beihang University](http://www.buaa.edu.cn/) (BUAA). He received his bachelor's degree in Computer Science and Technology from [Civial Aviation University of China](http://www.cauc.edu.cn/zh/) (CAUC) as an "Outstanding Graduate" in 2015. He got the Top-10 College Students Award in October, 2014. After that, he passed the National Entrance Examination for Postgraduate for SCSE, BUAA in December, 2014 as the top-score student and attended BUAA as a postgraduate in September, 2015.
+Xiangfei Meng is currently a second-year master's degree candidate under supervision of Professor [Hong Qin](https://www.cs.stonybrook.edu/people/faculty/HongQin) at State Key Laboratory of Virtual Reality Technology and Systems, School of Computer Science and Engineering (SCSE), [Beihang University](http://www.buaa.edu.cn/) (BUAA). He received his bachelor's degree in Computer Science and Technology from [Civial Aviation University of China](http://www.cauc.edu.cn/zh/) (CAUC) as an "Outstanding Graduate" in 2015. He got the honorary title of the Top-10 College Students in CAUC in October, 2014. After that, he passed the National Entrance Examination for Postgraduate for SCSE, BUAA in December, 2014 as the top-score student and attended BUAA as a postgraduate in September, 2015.
 
 His research interests include Computer Vision, Machine Learning and Computer Graphics. Recently, he specifically focuses on data-driven animation generating approaches.
 
@@ -24,6 +24,10 @@ His research interests include Computer Vision, Machine Learning and Computer Gr
 
 ![FishImg](img/Fish.png)
 Motion capture and retargeting of fish generally have difficulties in marker attachment and feature description of the soft body. We employ a contour-based feature extraction to extract the motion pattern of a fish in a video taken by monocular camera, and propose a two-level motion retargeting scheme to retarget the recorded motion to a new fish model, regardless of its body and fin proportions. As a result, we can drive a hand-drawn fish or fish-like characters to swim with the same motion style as the real one in the video.
+
+Publication:
+To appear.
+
 
 ### Part Implementation of STL 
 (2016/04 – 2016/05)
@@ -52,6 +56,7 @@ Publication:
 ### Moving Object Tracking 
 (2012/06 – 2013/05)
 
+![SpamDetection](img/spam detection performance.png)
 Moving object tracking is a classical problem in the field of Computer Vision, since it can provide essential information of the shape and motion of the foreground region. We implemented a moving object tracking system, which can track moving objects through image sequences taken by a static camera in real time. First, the system identifies foreground and background pixels through Gaussian Mixture Model, which is a pixel-wise process. Then it uses a morphology-open filter to eliminate the salt-and-pepper noise and employ the component analysis to label the salient components as foreground objects. Afterwards, the corresponding between consecutive frames is accomplished by a Max A Priori algorithm, and the splitting, merging, appearing and vanishing of objects is handled meanwhile. Finally, the trajectories of detected objects are estimated by a group of Kalman Filters. The system is robust to slight shaking of camera and the gradual change of light. It is able to process 20 frames (640×480 pixels) per second  with 2.9GHz processor and 4GB memory.
 
 
