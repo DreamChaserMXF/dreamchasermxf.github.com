@@ -1,2 +1,2 @@
 # dreamchasermxf.github.com
-Curriculum Vitae
+Curriculum Vitaes
