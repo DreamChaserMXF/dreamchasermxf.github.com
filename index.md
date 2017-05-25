@@ -31,14 +31,18 @@ Publication: to appear.
 ### -Part Implementation of STL 
 (2016/04 – 2016/05)
 
+![STL Design Diagram](img/XFSTL.png)
 Partly implemented the C++ standard template library (STL), including several types of containers (vector, list, deque), their corresponding iterators (ordinary iterator, constant iterator, reverse iterator), a few container adaptors (stack, queue, priority_queue) and some common algorithms (sort, find). Mainly used C++ features include low-level memory management, specialization and the part specialization of template, function object, etc.
 
 ### -Ray Tracer 
 (2016/03 – 2016/04)
 
+![CornellBox](img/Cornell Box.png)![Ball and Triangle](img/Ball and Triangle.png)
+
 ### -Pascal Compiler 
 (2015/09 – 2016/02)
 
+![FishImg](img/XFSTL.png)
 Implemented a Pascal Compiler using C++. The compiler can process Pascal source code and transfer it to
 the Intel-i386 assembly code. The assembled executable program can be run on Windows operating system. The compiler provides fully support for nested functions, recursion callings of functions, and the parameter passing either by values or references.
 
@@ -56,7 +60,7 @@ Publication:
 ### -Moving Object Tracking 
 (2012/06 – 2013/05)
 
-
+![4cars](img/4cars.png)![multicars](img/multicars.png)
 Moving object tracking is a classical problem in the field of Computer Vision, since it can provide essential information of the shape and motion of the foreground region. We implemented a moving object tracking system, which can track moving objects through image sequences taken by a static camera in real time. First, the system identifies foreground and background pixels through Gaussian Mixture Model, which is a pixel-wise process. Then it uses a morphology-open filter to eliminate the salt-and-pepper noise and employ the component analysis to label the salient components as foreground objects. Afterwards, the corresponding between consecutive frames is accomplished by a Max A Priori algorithm, and the splitting, merging, appearing and vanishing of objects is handled meanwhile. Finally, the trajectories of detected objects are estimated by a group of Kalman Filters. The system is robust to slight shaking of camera and the gradual change of light. It is able to process 20 frames (640×480 pixels) per second  with 2.9GHz processor and 4GB memory.
 
 
