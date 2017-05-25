@@ -23,7 +23,7 @@ His research interests include Computer Vision, Machine Learning and Computer Gr
 (2016/05 – 2017/05)
 
 ![FishImg](img/Fish.png)
-Motion capture and retargeting of fish generally have difficulties in marker attachment and feature description of the soft body. We employ a contour-based feature extraction to extract the motion pattern of a fish in a video taken by monocular camera, and propose a two-level motion retargeting scheme to retarget the recorded motion to a new fish model, regardless of its body and fin proportions. As a result, we can drive a hand-drawn fish or fish-like characters to swim with the same motion style as the real one in the video.
+Motion capture and retargeting of fish generally have difficulties in marker attachment and feature description of the soft body. We employ a contour-based feature extraction to extract the motion pattern of a fish in a video taken by monocular camera, and propose a two-level motion retargeting scheme to retarget the recorded motion to a new fish model, regardless of its body and fin proportions. As a result, we can drive a hand-drawn fish or a fish-like character (say flower) to swim with the same motion style as the real one in the video.
 
 Publication: to appear.
 
@@ -37,12 +37,13 @@ Partly implemented the C++ standard template library (STL), including several ty
 ### -Ray Tracer 
 (2016/03 – 2016/04)
 
-![CornellBox](img/Cornell Box.png)![Ball and Triangle](img/Ball and Triangle.png)
+![CornellBox](img/Cornell Box.png)
 
 ### -Pascal Compiler 
 (2015/09 – 2016/02)
 
-![Compiler](img/compiler.png)
+
+<img src="img/compiler.png"  alt="目标代码" />
 Implemented a Pascal Compiler using C++. The compiler can process Pascal source code and transfer it to
 the Intel-i386 assembly code. The assembled executable program can be run on Windows operating system. The compiler provides fully support for nested functions, recursion callings of functions, and the parameter passing either by values or references.
 
@@ -60,7 +61,7 @@ Publication:
 ### -Moving Object Tracking 
 (2012/06 – 2013/05)
 
-![4cars](img/4cars.png)![multicars](img/multicars.png)
+![4cars](img/4cars.png)
 Moving object tracking is a classical problem in the field of Computer Vision, since it can provide essential information of the shape and motion of the foreground region. We implemented a moving object tracking system, which can track moving objects through image sequences taken by a static camera in real time. First, the system identifies foreground and background pixels through Gaussian Mixture Model, which is a pixel-wise process. Then it uses a morphology-open filter to eliminate the salt-and-pepper noise and employ the component analysis to label the salient components as foreground objects. Afterwards, the corresponding between consecutive frames is accomplished by a Max A Priori algorithm, and the splitting, merging, appearing and vanishing of objects is handled meanwhile. Finally, the trajectories of detected objects are estimated by a group of Kalman Filters. The system is robust to slight shaking of camera and the gradual change of light. It is able to process 20 frames (640×480 pixels) per second  with 2.9GHz processor and 4GB memory.
 
 
