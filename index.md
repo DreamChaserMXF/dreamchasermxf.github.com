@@ -31,7 +31,7 @@ Publication: to appear.
 
 ### 2. Part Implementation of STL 
 (2016/04 – 2016/05)
-
+[//]: # ()
 [//]: # () ![STL Design Diagram](img/XFSTL.png)
 
 Partly implemented the C++ standard template library (STL), including several types of containers (vector, list, deque), their corresponding iterators (ordinary iterator, constant iterator, reverse iterator), a few container adaptors (stack, queue, priority_queue) and some common algorithms (sort, find). Mainly used C++ features include low-level memory management, specialization and the part specialization of template, function object, etc.
