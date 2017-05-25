@@ -39,7 +39,7 @@ Partly implemented the C++ standard template library (STL), including several ty
 
 ![CornellBox](img/Cornell Box.png)
 
-Implemented a ray tracer as an offline renderer. This renderer is equipped with a parser to analysis model files containing triangles and spheres. The scene is then rendered within global illumination, which includes effects of reflection, refraction, soft shadow and color bleeding. In addition, the rendering process is speeded up by using OpenMP to accomplish thresh-level parallelization.
+Implemented a ray tracer as an offline renderer. This renderer is equipped with a parser to analysis model files containing triangles and spheres. The scene is then rendered within global illumination, which includes effects of ambient, diffuse, specular, reflection, refraction, soft shadow and color bleeding. In addition, the rendering process is speeded up by using OpenMP to accomplish thresh-level parallelization.
 
 ### 4. Pascal Compiler 
 (2015/09 – 2016/02)  
@@ -77,5 +77,3 @@ Moving object tracking is a classical problem in the field of Computer Vision si
 ### Address
 [Xueyuan Road No.37, HaiDian District, Beijing](http://ditu.amap.com/place/B000A830XU)  
 100191, China
-
-
