@@ -19,7 +19,7 @@ His research interests include Computer Vision, Machine Learning and Computer Gr
 
 ## Projects
 
-<\center>abc<\center>
+<span>文字</span>
 
 ### -Motion Capture and Retargeting of Fish by Monocular Camera 
 (2016/05 – 2017/05)
