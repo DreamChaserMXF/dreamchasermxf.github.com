@@ -1,8 +1,8 @@
 # Xiangfei Meng (孟祥飞)
 
-Xiangfei Meng is currently a second-year master's degree candidate under supervision of Professor [Hong Qin](https://www.cs.stonybrook.edu/people/faculty/HongQin) at State Key Laboratory of Virtual Reality Technology and Systems, School of Computer Science and Engineering (SCSE), [Beihang University](http://www.buaa.edu.cn/) (BUAA). He received his bachelor's degree in Computer Science and Technology from [Civial Aviation University of China](http://www.cauc.edu.cn/zh/) (CAUC) as an "**Outstanding Graduate**" in 2015. He got the honorary title of "**the Top-10 College Students in CAUC**" in October, 2014. After that, he passed the National Entrance Examination for Postgraduate for SCSE, BUAA in December, 2014 as the **top-score student** and attended BUAA as a postgraduate in September, 2015.
+Xiangfei Meng is currently a second-year master's degree candidate under the supervision of Professor [Hong Qin](https://www.cs.stonybrook.edu/people/faculty/HongQin) at State Key Laboratory of Virtual Reality Technology and Systems, School of Computer Science and Engineering (SCSE), [Beihang University](http://www.buaa.edu.cn/) (BUAA). He received his bachelor's degree in Computer Science and Technology from [Civial Aviation University of China](http://www.cauc.edu.cn/zh/) (CAUC) as an "**Outstanding Graduate**" in 2015. He got the honorary title of "**the Top-10 College Students in CAUC**" in October 2014. After that, he passed the National Entrance Examination for Postgraduate for SCSE, BUAA in December 2014 as the **top-score student** and attended BUAA as a postgraduate in September 2015.
 
-His research interests include Computer Vision, Machine Learning and Computer Graphics. Recently, he specifically focuses on data-driven animation generating approaches.
+His research interests include Computer Vision, Machine Learning, and Computer Graphics. Recently, he specifically focuses on data-driven animation generating approaches.
 
 ## Education
 
@@ -24,7 +24,7 @@ His research interests include Computer Vision, Machine Learning and Computer Gr
 
 ![FishImg](img/Fish.png)
 
-Motion capture and retargeting of fish generally have difficulties in marker attachment and feature description of the soft body. We employ a contour-based feature extraction to extract the motion pattern of a fish in a video taken by monocular camera, and propose a two-level motion retargeting scheme to retarget the recorded motion to a new fish model, regardless of its body and fin proportions. As a result, we can drive a hand-drawn fish or a fish-like character (say flower) to swim with the same motion style as the real one in the video.
+Motion capture and retargeting of fish generally have difficulties in marker attachment and feature description of the soft body. We present a contour-based feature extraction to extract the motion pattern of a fish in a video taken by a monocular camera. A two-level motion retargeting scheme is proposed to retarget the recorded motion to a new fish model, regardless of its body and fin proportions. As a result, we can drive a hand-drawn fish or a fish-like character (say flower) to swim with the same motion style as the real one in the video.
 
 Publication: to appear.
 
@@ -52,7 +52,7 @@ the Intel-i386 assembly code. The assembled executable program can be run on Win
 
 ![SpamDetection](img/spam detection performance.png)
 
-Spammer detection is a typical scenario of the application of classifiers. To detect spam accounts in social networks, we collected 4109 profiles from [Weibo](http://weibo.com/), extracted their features and delivered them to several classifiers. We implemented a Bayers classifier and a C4.5 Decision Tree, for the Bayers classifier is theoretically optimal as long as the conditional probability densitie functions are known, and the performance of Decision Tree is independent with dimensions. Through the 10-fold cross validation, the Bayes Classifier showed 58.3% in recall rate, 85.4% in precision, and 0.693 in F1-Measure, and the Decision Tree showed 60.1% in recall rate, 85.4% in precision, and 0.706 in F1-Measure.
+Spammer detection is a typical scenario of the application of classifiers. To detect spam accounts in social networks, we collected 4109 profiles from [Weibo](http://weibo.com/), extracted their features and delivered them to several classifiers. We implemented a Bayers classifier and a C4.5 Decision Tree, for the Bayers classifier is theoretically optimal as long as the conditional probability densities functions are known, and the performance of Decision Tree is independent of dimensions. Through the 10-fold cross validation, the Bayes Classifier showed 58.3% in recall rate, 85.4% in precision, and 0.693 in F1-Measure, and the Decision Tree showed 60.1% in recall rate, 85.4% in precision, and 0.706 in F1-Measure.
 
 Publication:  
 孟祥飞, 徐路, 王思雨. 基于新浪微博的社交网络垃圾用户分析与检测[J]. 科技与创新, 2014(15):125-127. [pdf](paper/基于新浪微博的社交网络垃圾用户分析与检测.pdf)  
@@ -63,7 +63,7 @@ Publication:
 
 ![4cars](img/4cars.png)
 
-Moving object tracking is a classical problem in the field of Computer Vision, since it can provide essential information of the shape and motion of the foreground region. We implemented a moving object tracking system, which can track moving objects through image sequences taken by a static camera in real time. First, the system identifies foreground and background pixels through Gaussian Mixture Model, which is a pixel-wise process. Then it uses a morphology-open filter to eliminate the salt-and-pepper noise and employ the component analysis to label the salient components as foreground objects. Afterwards, the corresponding between consecutive frames is accomplished by a Max A Priori algorithm, and the splitting, merging, appearing and vanishing of objects is handled meanwhile. Finally, the trajectories of detected objects are estimated by a group of Kalman Filters. The system is robust to slight shaking of camera and the gradual change of light. It is able to process 20 frames (640×480 pixels) per second  with 2.9GHz processor and 4GB memory.
+Moving object tracking is a classical problem in the field of Computer Vision since it can provide essential information on the shape and motion of the foreground objects. We implemented a moving object tracking system, which can track moving objects through image sequences taken by a static camera in real time. First, the system identifies foreground and background pixels through Gaussian Mixture Model, which is a pixel-wise process. Then it uses a morphology-open filter to eliminate the salt-and-pepper noise and employ the component analysis to label the salient components as foreground objects. Afterward, the corresponding between consecutive frames is accomplished by a Max A Priori algorithm, and the splitting, merging, appearing and vanishing of objects is handled meanwhile. Finally, the trajectories of detected objects are estimated by a group of Kalman Filters. The system is robust to the slight shaking of the camera and the gradual change of light. It is able to process 20 frames (640×480 pixels) per second with a 2.9GHz processor and 4GB memory.
 
 ## Contact
 [MengXiangfei_job@163.com](mailto:MengXiangfei_job@163.com) (for recruiting business)  
