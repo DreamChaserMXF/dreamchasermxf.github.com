@@ -31,8 +31,26 @@ Publication: to appear.
 
 ### -Part Implementation of STL 
 (2016/04 – 2016/05)
-
-![STL Design Diagram](img/XFSTL.png)
+<div class="col-lg-12 media">
+                    <div class="media-left media-middle">
+                        <img class="project-image" src="img/project/UnifiedMotionPlanner.jpg">
+                    </div>
+                    <div class="project-description media-body media-middle">
+                        <p class="project-title">
+                            Unified Motion Planner for Fishes with Various Swimming Styles
+                        </p>
+                        <p class="project-author">
+                            Daiki Satoi, Mikihiro Hagiwara, Akira Uemoto, Hisanao Nakadai, and Junichi Hoshino
+                        </p>
+                        <p class="project-publication">
+                            ACM Transactions on Graphics (SIGGRAPH) 2016
+                        </p>
+                        <p class="project-link">
+                            [<a href="http://entcomp.esys.tsukuba.ac.jp/en/project/unified-motion-planner/">Project page</a>][<a href="http://entcomp.esys.tsukuba.ac.jp/en/project/unified-motion-planner/file/UnifiedMotionPlanner_Paper.pdf">Paper</a>][<a href="https://www.youtube.com/watch?v=IeR5cV7nhKs">YouTube</a>]
+                        </p>
+                    </div>
+                </div>
+[//]: # () ![STL Design Diagram](img/XFSTL.png)
 
 Partly implemented the C++ standard template library (STL), including several types of containers (vector, list, deque), their corresponding iterators (ordinary iterator, constant iterator, reverse iterator), a few container adaptors (stack, queue, priority_queue) and some common algorithms (sort, find). Mainly used C++ features include low-level memory management, specialization and the part specialization of template, function object, etc.
 
