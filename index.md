@@ -17,6 +17,20 @@ His research interests include Computer Vision, Machine Learning and Computer Gr
 2. Familiar with **Computer Vision**, **Machine Learning** and **Computer Graphics**.
 3. Proficient in English reading and writing, fluent oral English.
 
+## Projects
+
+### Motion Capture and Retargeting of Fish by Monocular Camera (2016/05 – 2017/05)
+
+### Part Implementation of STL (2016/04 – 2016/05)
+
+### Ray Tracer (2016/03 – 2016/04)
+
+### Pascal Compiler (2015/09 – 2016/02)
+
+### Spammer Detection in Social Networks (2013/06 – 2014/05)
+
+### Moving Objects Tracking (2012/06 – 2013/05)
+
 
 ```markdown
 Syntax highlighted code block
