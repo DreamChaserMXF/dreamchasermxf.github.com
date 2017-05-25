@@ -56,7 +56,7 @@ Spammer detection is a typical scenario of the application of classifiers. To de
 
 Publication:  
 孟祥飞, 徐路, 王思雨. 基于新浪微博的社交网络垃圾用户分析与检测[J]. 科技与创新, 2014(15):125-127. [pdf](paper/基于新浪微博的社交网络垃圾用户分析与检测.pdf)  
-张宇翔, 孙菀, 杨家海, 周达磊, 孟祥飞, & 肖春景. 新浪微博反垃圾中特征选择的重要性分析[J]. 通信学报, 2016, 37(8):24-33. [pdf](paper/新浪微博反垃圾中特征选择的重要性分析.pdf)
+张宇翔, 孙菀, 杨家海, 周达磊, 孟祥飞, 肖春景. 新浪微博反垃圾中特征选择的重要性分析[J]. 通信学报, 2016, 37(8):24-33. [pdf](paper/新浪微博反垃圾中特征选择的重要性分析.pdf)
 
 ### 6. Moving Object Tracking 
 (2012/06 – 2013/05)
