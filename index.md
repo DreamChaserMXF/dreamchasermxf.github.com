@@ -55,7 +55,7 @@ the Intel-i386 assembly code. The assembled executable program can be run on Win
 Spammer detection is a typical scenario of the application of classifiers. To detect spam accounts in social networks, we collected 4109 profiles from [Weibo](http://weibo.com/), extracted their features and delivered them to several classifiers. We implemented a Bayers classifier and a C4.5 Decision Tree, for the Bayers classifier is theoretically optimal as long as the conditional probability densitie functions are known, and the performance of Decision Tree is independent with dimensions. Through the 10-fold cross validation, the Bayes Classifier showed 58.3% in recall rate, 85.4% in precision, and 0.693 in F1-Measure, and the Decision Tree showed 60.1% in recall rate, 85.4% in precision, and 0.706 in F1-Measure.
 
 Publication:  
-孟祥飞, 徐路, 王思雨. 基于新浪微博的社交网络垃圾用户分析与检测[J]. 科技与创新, 2014(15):125-127. `[`[pdf]`]`(paper/基于新浪微博的社交网络垃圾用户分析与检测.pdf)  
+孟祥飞, 徐路, 王思雨. 基于新浪微博的社交网络垃圾用户分析与检测[J]. 科技与创新, 2014(15):125-127. [pdf](paper/基于新浪微博的社交网络垃圾用户分析与检测.pdf)  
 张宇翔, 孙菀, 杨家海, 周达磊, 孟祥飞, & 肖春景. 新浪微博反垃圾中特征选择的重要性分析[J]. 通信学报, 2016, 37(8):24-33. [`[`pdf`]`](paper/新浪微博反垃圾中特征选择的重要性分析.pdf)
 
 ### 6. Moving Object Tracking 
