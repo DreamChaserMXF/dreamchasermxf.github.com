@@ -75,7 +75,7 @@ Moving object tracking is a classical problem in the field of Computer Vision, s
 [Beihang University](http://www.buaa.edu.cn/)
 
 ### Address
-[Xueyuan Road No.37](http://ditu.amap.com/place/B000A830XU), HaiDian District, Beijing  
+[Xueyuan Road No.37, HaiDian District, Beijing](http://ditu.amap.com/place/B000A830XU)  
 100191, China
 
 
