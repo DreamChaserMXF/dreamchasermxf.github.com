@@ -30,9 +30,7 @@ Publication: to appear.
 
 
 ### 2. Part Implementation of STL 
-(2016/04 – 2016/05)
-[//]: # ()
-[//]: # () ![STL Design Diagram](img/XFSTL.png)
+(2016/04 – 2016/05)  
 
 Partly implemented the C++ standard template library (STL), including several types of containers (vector, list, deque), their corresponding iterators (ordinary iterator, constant iterator, reverse iterator), a few container adaptors (stack, queue, priority_queue) and some common algorithms (sort, find). Mainly used C++ features include low-level memory management, specialization and the part specialization of template, function object, etc.
 
@@ -41,12 +39,10 @@ Partly implemented the C++ standard template library (STL), including several ty
 
 ![CornellBox](img/Cornell Box.png)
 
-Implemented a ray tracer as an offline renderer. This renderer has a parser to analysis model files containing triangles and spheres. The scene is then rendered within global illumination. In particular, it provides support for reflection, refraction, soft shadow and color bleeding. In addition, the rendering process is speeded up by using OpenMP to accomplish thresh-level parallelization.
+Implemented a ray tracer as an offline renderer. This renderer is equipped with a parser to analysis model files containing triangles and spheres. The scene is then rendered within global illumination, which includes effects of reflection, refraction, soft shadow and color bleeding. In addition, the rendering process is speeded up by using OpenMP to accomplish thresh-level parallelization.
 
 ### 4. Pascal Compiler 
-(2015/09 – 2016/02)
-
-[//]: # () <img src="img/compiler.png"  alt="目标代码" height="100%" width="100%"/>
+(2015/09 – 2016/02)  
 
 Implemented a Pascal Compiler using C++. The compiler can process Pascal source code and transfer it to
 the Intel-i386 assembly code. The assembled executable program can be run on Windows operating system. The compiler provides fully support for nested functions, recursion callings of functions, and the parameter passing either by values or references.
@@ -56,8 +52,7 @@ the Intel-i386 assembly code. The assembled executable program can be run on Win
 
 ![SpamDetection](img/spam detection performance.png)
 
-Spammer detection is a typical scenario of the application of classifiers. To detect spam accounts in social networks, we collected 4109 profiles from [Weibo](http://weibo.com/), extracted their features and delivered them to a few classifiers. We implemented a Bayers classifier and a C4.5 Decision Tree, for the Bayers classifier is theoretically optimal as long as the conditional probability densitie functions are known, and the Decision Tree is independent with dimensions. Through the 10-fold cross validation, the Bayes Classifier showed 58.3% in recall rate, 85.4% in precision, and 0.693 in F1-Measure, and the Decision Tree showed 60.1% in recall rate, 85.4% in precision, and 0.706
-in F1-Measure.
+Spammer detection is a typical scenario of the application of classifiers. To detect spam accounts in social networks, we collected 4109 profiles from [Weibo](http://weibo.com/), extracted their features and delivered them to several classifiers. We implemented a Bayers classifier and a C4.5 Decision Tree, for the Bayers classifier is theoretically optimal as long as the conditional probability densitie functions are known, and the performance of Decision Tree is independent with dimensions. Through the 10-fold cross validation, the Bayes Classifier showed 58.3% in recall rate, 85.4% in precision, and 0.693 in F1-Measure, and the Decision Tree showed 60.1% in recall rate, 85.4% in precision, and 0.706 in F1-Measure.
 
 Publication:  
 孟祥飞, 徐路, 王思雨. 基于新浪微博的社交网络垃圾用户分析与检测[J]. 科技与创新, 2014(15):125-127. [`[`pdf`]`](paper/基于新浪微博的社交网络垃圾用户分析与检测.pdf)  
