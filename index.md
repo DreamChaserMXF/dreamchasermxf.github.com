@@ -65,16 +65,17 @@ Publication:
 
 Moving object tracking is a classical problem in the field of Computer Vision, since it can provide essential information of the shape and motion of the foreground region. We implemented a moving object tracking system, which can track moving objects through image sequences taken by a static camera in real time. First, the system identifies foreground and background pixels through Gaussian Mixture Model, which is a pixel-wise process. Then it uses a morphology-open filter to eliminate the salt-and-pepper noise and employ the component analysis to label the salient components as foreground objects. Afterwards, the corresponding between consecutive frames is accomplished by a Max A Priori algorithm, and the splitting, merging, appearing and vanishing of objects is handled meanwhile. Finally, the trajectories of detected objects are estimated by a group of Kalman Filters. The system is robust to slight shaking of camera and the gradual change of light. It is able to process 20 frames (640×480 pixels) per second  with 2.9GHz processor and 4GB memory.
 
+## Contact
+[MengXiangfei_job@163.com](mailto:MengXiangfei_job@163.com) (for recruiting business)  
+[XiangfeiMeng@buaa.edu.cn](mailto:XiangfeiMeng@buaa.edu.cn) (for academic communication)
 
-## Organization
+### Organization
 [State Key Laboratory of Virtual Reality Technology and System](http://vrlab.buaa.edu.cn/)  
 [School of Computer Science and Engineering](http://scse.buaa.edu.cn/buaa-css-web/initAction.action)  
 [Beihang University](http://www.buaa.edu.cn/)
 
-## Address
+### Address
 Xueyuan Road No.37, HaiDian District, Beijing  
 100191, China
 
-## Contact
-[MengXiangfei_job@163.com](mailto:MengXiangfei_job@163.com) (for recruiting business)  
-[XiangfeiMeng@buaa.edu.cn](mailto:XiangfeiMeng@buaa.edu.cn) (for academic communication)
+
