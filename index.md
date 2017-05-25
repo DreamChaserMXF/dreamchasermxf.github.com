@@ -42,7 +42,7 @@ Partly implemented the C++ standard template library (STL), including several ty
 ### -Pascal Compiler 
 (2015/09 – 2016/02)
 
-![FishImg](img/XFSTL.png)
+![Compiler](img/compiler.png)
 Implemented a Pascal Compiler using C++. The compiler can process Pascal source code and transfer it to
 the Intel-i386 assembly code. The assembled executable program can be run on Windows operating system. The compiler provides fully support for nested functions, recursion callings of functions, and the parameter passing either by values or references.
 
