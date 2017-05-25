@@ -1,8 +1,11 @@
 ## Xiangfei Meng (孟祥飞)
 
-Xiangfei Meng is currently a second-year master's degree candidate under supervision of Professor [Hong Qin](https://www.cs.stonybrook.edu/people/faculty/HongQin) at State Key Laboratory of Virtual Reality Technology and System, School of Computer Science and Engineering (SCSE), [Beihang University](http://www.buaa.edu.cn/) (BUAA). He received his bachelor's degree in Computer Science and Technology from [Civial Aviation University of China](http://www.cauc.edu.cn/zh/) (CAUC) as an "Outstanding Graduate" in 2015. He got the [Top-10 College Students Award](http://www.cauc.edu.cn/news/3723.html) in October, 2014. After that, he passed the National Entrance Examination for Postgraduate for SCSE, BUAA in December, 2014 as the [top-score student](http://scse.buaa.edu.cn/buaa-css-web/articleDetail.action?firstSelId=6e011b46-2c70-4f68-a633-ec51f42b4718&secondSelId=NOTICE_PUBLICITY&articleId=10c8b4aa-d82e-4e49-8d29-96d809c4e838&type=NEWS&language=0) and attended BUAA as a postgraduate in September, 2015.
+Xiangfei Meng is currently a second-year master's degree candidate under supervision of Professor [Hong Qin](https://www.cs.stonybrook.edu/people/faculty/HongQin) at State Key Laboratory of Virtual Reality Technology and System, School of Computer Science and Engineering (SCSE), [Beihang University](http://www.buaa.edu.cn/) (BUAA). He received his bachelor's degree in Computer Science and Technology from [Civial Aviation University of China](http://www.cauc.edu.cn/zh/) (CAUC) as an "Outstanding Graduate" in 2015. He got the [Top-10 College Students Award](http://www.cauc.edu.cn/news/3723.html) in October, 2014. After that, he passed the National Entrance Examination for Postgraduate for SCSE, BUAA in December, 2014 as the top-score student and attended BUAA as a postgraduate in September, 2015.
 
-### Markdown
+### Email
+MengXiangfei_job@163.com
+
+XiangfeiMeng@buaa.edu.cn
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
