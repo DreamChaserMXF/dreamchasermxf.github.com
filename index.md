@@ -22,6 +22,7 @@ His research interests include Computer Vision, Machine Learning and Computer Gr
 ### Motion Capture and Retargeting of Fish by Monocular Camera 
 (2016/05 – 2017/05)
 ![FishImg](img/Fish.png)
+Motion capture and retargeting of fish generally have difficulties in marker attachment and feature description of the soft body. We employ a contour-based feature extraction to extract the motion pattern of a fish from video sequences, and propose a two-level motion retargeting scheme to retarget the recorded motion to a new fish model, regardless of its body and fin proportions. As a result, we can drive a hand-drawn fish or fish-like characters to swim with the same motion style as the real one in the video.
 
 ### Part Implementation of STL 
 (2016/04 – 2016/05)
