@@ -1,6 +1,6 @@
 # Xiangfei Meng (孟祥飞)
 
-![Selfie](img/panorama.jpg)
+![Selfie](img/panorama.jpg)  
 Xiangfei Meng is currently a second-year master's degree candidate under the supervision of Professor [Hong Qin](https://www.cs.stonybrook.edu/people/faculty/HongQin) at State Key Laboratory of Virtual Reality Technology and Systems, School of Computer Science and Engineering (SCSE), [Beihang University](http://www.buaa.edu.cn/) (BUAA). He received his bachelor's degree in Computer Science and Technology from [Civial Aviation University of China](http://www.cauc.edu.cn/zh/) (CAUC) as an "**Outstanding Graduate**" in 2015. He got the honorary title of "**Top-10 College Students in CAUC**" in October 2014. After that, he passed the National Entrance Examination for Postgraduate for SCSE, BUAA in December 2014 as the **top-score student** and attended BUAA as a postgraduate in September 2015.
 
 His research interests include Computer Vision, Machine Learning, and Computer Graphics. Recently, he specifically focuses on data-driven animation generating approaches.
@@ -46,7 +46,7 @@ Implemented a ray tracer as an offline renderer. This renderer is equipped with 
 (2015/09 – 2016/02)  
 
 Implemented a Pascal Compiler using C++. The compiler can process Pascal source code and transfer it to
-the Intel-i386 assembly code. The assembled executable program can be run on Windows operating system. The compiler provides fully support for nested functions, recursion callings of functions, and the parameter passing either by values or references.
+the Intel-i386 assembly code. The assembled executable program can be run on Windows operating system. The compiler provides full support for nested functions, recursion callings of functions, and the parameter passing either by values or references.
 
 ### 5. Spammer Detection in Social Networks 
 (2013/06 – 2014/05)
