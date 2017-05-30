@@ -1,5 +1,3 @@
-<title>abc by DreamChaserMXF</title>
-
 # Xiangfei Meng (孟祥飞)
 
 ![Selfie](img/panorama.jpg)  
