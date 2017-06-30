@@ -28,7 +28,7 @@ His research interests include Computer Vision, Machine Learning, and Computer G
 Motion capture and retargeting of fish generally have difficulties in marker attachment and feature description of the soft body. We present a contour-based feature extraction to extract the motion pattern of a fish in a video taken by a monocular camera. A two-level motion retargeting scheme is proposed to retarget the recorded motion to a new fish model, regardless of its body and fin proportions. As a result, we can drive a hand-drawn fish or a fish-like character (say a mermaid, or a flower) to swim with the same motion style as the real one in the video.
 
 Publication:  
-Xiangfei Meng, Junjun Pan, Hong Qin. **"Motion Capture and Retargeting of Fish by Monocular Camera."** *2017 International Conference on Cyberworlds (CW 2017). IEEE*, Chester, UK, September 20-22, 2017, to appear.[pdf]
+Xiangfei Meng, Junjun Pan, Hong Qin. **"Motion Capture and Retargeting of Fish by Monocular Camera."** *2017 International Conference on Cyberworlds (CW 2017), IEEE*, Chester, UK, September 20-22, 2017, to appear.[pdf]
 
 ### 2. Part Implementation of STL 
 (2016/04 – 2016/05)  
