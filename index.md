@@ -31,8 +31,9 @@ Project 2. Data-Driven Test for Intellisense in Visual Studio
 
 Building a data-driven test module (named *Playback*) for Intellisense in Visual Studio. The main functionality of Intellisense is to auto-complete the source code while programmers are writing. However, there are countless grammatical token combinations which can hardly be covered by unit tests. Therefore, we built Playback to collects the submitted codes from clusters, checks each code pieces, and gather the checking result to generate an Intellisense bug report.
 
-<!-- This is the right way to write markdown comment -->
-> The checking process starts with dividing a whole piece of code consisting of K tokens into K code fragments. The i-th code fragment is cut out from the original code piece, beginning at the first token and ending at i-th token. Each code fragment is inputed into Intellisense, from which a list of completion tokens are obtained. Playback then checks whether the next token after the code fragment is contained in the completion list.
+<!-- 
+The checking process starts with dividing a whole piece of code consisting of K tokens into K code fragments. The i-th code fragment is cut out from the original code piece, beginning at the first token and ending at i-th token. Each code fragment is inputed into Intellisense, from which a list of completion tokens are obtained. Playback then checks whether the next token after the code fragment is contained in the completion list.
+-->
 
 ## Projects
 
