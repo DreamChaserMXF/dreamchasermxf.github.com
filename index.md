@@ -25,14 +25,14 @@ His research interests include Computer Vision, Machine Learning, and Computer G
 
 Project 1. Incident Search Engine
 
-Building a search engine (named *CosmosSearch*) for the Cosmos Incident Management System, which can provide potential solutions to Cosmos users whoes cluster jobs are failed. The search engine extracts the key words and domain-specific words from users' error messages, and retrieves the similar issues from the existing incident log files, and finally provide users with the issue descriptions and corresponding solutions. It's main contributions are saving both users' time of submitting incident reports to designated responsible individuals (DRIs), and DRIs' time for laboriously checking each incident reports.
+Building a search engine (named *CosmosSearch*) for the Cosmos Incident Management System, which can provide potential solutions to Cosmos users whose cluster jobs are failed. The search engine extracts the key words and domain-specific words from users' error messages and retrieves the similar issues from the existing incident log files, and finally, provide users with the issue descriptions and corresponding solutions. Its main contribution is saving both users' time of submitting incident reports to designated responsible individuals (DRIs), and DRIs' time for laboriously checking each incident reports.
 
 Project 2. Data-Driven Test for Intellisense in Visual Studio
 
-Building a data-driven test module (named *Playback*) for Intellisense in Visual Studio. The main functionality of Intellisense is to auto-complete the source code while programmers are writing. However, there are countless grammatical token combinations which can hardly be covered by unit tests. Therefore, we built Playback to collects the submitted codes from clusters, checks each code pieces, and gather the checking result to generate an Intellisense bug report.
+Building a data-driven test module (named *Playback*) for Intellisense in Visual Studio. The main functionality of Intellisense is to auto-complete the source code while programmers are writing. However, there are countless grammatical token combinations which can hardly be covered by unit tests. Therefore, we built Playback to collect the submitted scripts from clusters, check each script, and gather the checking result to generate an Intellisense bug report.
 
 <!-- 
-The checking process starts with dividing a whole piece of code consisting of K tokens into K code fragments. The i-th code fragment is cut out from the original code piece, beginning at the first token and ending at i-th token. Each code fragment is inputed into Intellisense, from which a list of completion tokens are obtained. Playback then checks whether the next token after the code fragment is contained in the completion list.
+The checking process starts with dividing a script consisting of K tokens into K code fragments. The n-th code fragment is cut out from the original script, beginning at the first token and ending at the n-th token. Each code fragment is inputted into Intellisense, from which a list of completion tokens are obtained. Playback then checks whether the next token after the code fragment is contained in the completion list.
 -->
 
 ## Projects
