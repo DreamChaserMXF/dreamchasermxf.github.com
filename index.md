@@ -16,7 +16,6 @@ His research interests include Computer Vision, Machine Learning, and Computer G
 ## Skills
 1. Experienced **C/C++** programming skills with good coding style.
 2. Familiar with **Computer Vision**, **Machine Learning**, and **Computer Graphics**.
-3. Proficient in English reading and writing.
 
 ## Internship
 
