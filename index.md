@@ -20,15 +20,15 @@ His research interests include Computer Vision, Machine Learning, and Computer G
 ## Internship
 
 ### 1. Microsoft - Software Development
-(2017/06/01 - )
+(2017/06/01 - 2017/09/01)
 
 Project 1. Incident Search Engine
 
-Building a search engine (named *CosmosSearch*) for the Cosmos Incident Management System, which can provide potential solutions to Cosmos users whose cluster jobs are failed. The search engine extracts the key words and domain-specific words from users' error messages and retrieves the similar issues from the existing incident log files, and finally, provide users with the issue descriptions and corresponding solutions. Its main contribution is saving both users' time of submitting incident reports to designated responsible individuals (DRIs), and DRIs' time for laboriously checking each incident reports.
+Building a search engine (named *CosmosSearch*) for the Cosmos Incident Management System, which can provide potential solutions to Cosmos users whose cloud jobs are failed. The search engine extracts the key words and domain-specific words from users' error messages and retrieves the similar issues from the existing incident log files, and finally, provide users with the issue descriptions and corresponding solutions. Its main contribution is saving both users' time of submitting incident reports to designated responsible individuals (DRIs), and DRIs' time for laboriously checking each incident reports.
 
 Project 2. Data-Driven Test for Intellisense in Visual Studio
 
-Building a data-driven test module (named *Playback*) for Intellisense in Visual Studio. The main functionality of Intellisense is to auto-complete the source code while programmers are writing. However, there are countless grammatical token combinations which can hardly be covered by unit tests. Therefore, we built Playback to collect the submitted scripts from clusters, check each script, and gather the checking result to generate an Intellisense bug report.
+Building a data-driven test module (named *Playback*) for Intellisense in Visual Studio. The main functionality of Intellisense is to auto-complete the source code while programmers are writing. However, there are countless grammatical token combinations which can hardly be covered by unit tests. Therefore, we built Playback to collect the submitted scripts from cloud, checked each script, and gathered the checking result to generate an Intellisense bug report.
 
 <!-- 
 The checking process starts with dividing a script consisting of K tokens into K code fragments. The n-th code fragment is cut out from the original script, beginning at the first token and ending at the n-th token. Each code fragment is inputted into Intellisense, from which a list of completion tokens are obtained. Playback then checks whether the next token after the code fragment is contained in the completion list.
@@ -41,7 +41,7 @@ The checking process starts with dividing a script consisting of K tokens into K
 
 ![FishImg](img/Fish.png)
 
-Motion capture and retargeting of fish generally have difficulties in marker attachment and feature description of the soft body. We present a contour-based feature extraction to extract the motion pattern of a fish in a video taken by a monocular camera. A two-level motion retargeting scheme is proposed to retarget the recorded motion to a new fish model, regardless of its body and fin proportions. As a result, we can drive a hand-drawn fish or a fish-like character (say a mermaid, or a flower) to swim with the same motion style as the real one in the video.
+Motion capture and retargeting of fish generally have difficulties in marker attachment and feature description of the soft body. We present a contour-based feature extraction to extract the motion pattern of a fish in a video taken by a monocular camera. A two-level motion retargeting scheme is proposed to retarget the recorded motion to a new fish model, regardless of its body and fin proportions. As a result, we can drive a hand-drawn fish or a fish-like character (say a mermaid, or a[ ](www.baidu.com)flower) to swim with the same motion style as the real one in the video.
 
 Publication:  
 Xiangfei Meng, Junjun Pan, Hong Qin. **"Motion Capture and Retargeting of Fish by Monocular Camera."** *2017 International Conference on Cyberworlds (CW 2017), IEEE*, Chester, UK, September 20-22, 2017, to appear.[pdf]
