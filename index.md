@@ -22,7 +22,7 @@ His research interests include Computer Vision, Machine Learning, and Computer G
 ### 1. Microsoft - Software Development
 (2017/06/01 - 2017/09/01)
 
-Project 1. Incident Search Engine
+Project 1. Cosmos Incident Search Engine
 
 Building a search engine (named *CosmosSearch*) for the Cosmos Incident Management System, which can provide potential solutions to Cosmos users whose cloud jobs are failed. The search engine extracts the key words and domain-specific words from users' error messages and retrieves the similar issues from the existing incident log files, and finally, provide users with the issue descriptions and corresponding solutions. Its main contribution is saving both users' time of submitting incident reports to designated responsible individuals (DRIs), and DRIs' time for laboriously checking each incident reports.
 
