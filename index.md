@@ -61,6 +61,8 @@ Implemented a ray tracer as an offline renderer. This renderer is equipped with 
 ### 4. Pascal Compiler 
 (2015/09 – 2016/02)  
 
+![Assembly](img/assembly.png)
+
 Implemented a Pascal Compiler using C++. The compiler can process Pascal source code and transfer it to
 the Intel-i386 assembly code. The assembled executable program can be run on Windows operating system. The compiler provides full support for nested function definitions, recursion callings of functions, and the parameter passing either by values or references.
 
