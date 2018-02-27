@@ -53,6 +53,7 @@ Motion capture and retargeting of fish generally have difficulties in marker att
 
 Publication:  
 Xiangfei Meng, Junjun Pan, Hong Qin, Pu Ge. **Real-time fish animation generation by monocular camera**. *Computers & Graphics*. 71(2018): 55-65. [[pdf](paper/XiangfeiCAG.pdf)]
+
 Xiangfei Meng, Junjun Pan, Hong Qin. **"Motion Capture and Retargeting of Fish by Monocular Camera."** *2017 International Conference on Cyberworlds (CW 2017), IEEE*, Chester, UK, September 20-22, 2017. [[pdf](paper/XiangfeiCW2017.pdf)][[video](img/DemoVideo.mp4)] 
 
 ### 2. Part Implementation of STL 
