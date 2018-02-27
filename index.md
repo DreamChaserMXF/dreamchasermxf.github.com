@@ -19,7 +19,15 @@ His research interests include Computer Vision, Machine Learning, and Computer G
 
 ## Internship
 
-### 1. Microsoft - Software Development
+### 1. YI Tunnel - Algorithm Engineer
+(2017/10/09 - 2018/03/15)
+
+Project 1. Unmanned Supermarket
+
+Participating in the design and implementation of the unmanned supermarket system, which is built purely on the leading technology of **Computer Vision**. The whole system consists of two modules --- the deploy module and the algorithm module. The deploy module is capable of coordinating all cameras to work collaboratively in real time, while the algorithm module aims at tracking persons inside the shop and recognize their interactions with the skus on the shelves. I implemented the deploy module independently, and took part in the optimization of the algorithm module. The whole system is implemented in Python 3.5 with tensorflow 1.4.
+
+
+### 2. Microsoft - Software Development
 (2017/06/01 - 2017/09/01)
 
 Project 1. Cosmos Incident Search Engine
