@@ -6,6 +6,7 @@ Xiangfei Meng is currently a Full-Time Employee at [*Bigo Co., Ltd.*](https://ww
 His research interests include Computer Vision, Machine Learning, and Computer Graphics. Recently, he specifically focuses on video quality enhancement and CNN inference frameworks on mobile devices.
 
 ## Work Experiences
+
 |Time|Company|Title|Working Field|
 |:-----------------|:----------|:---------------|:--------------------------------------------|
 | 2018/03 - now    | Bigo      | Senior Engineer | Video Enhancement; CNN inference framework |
