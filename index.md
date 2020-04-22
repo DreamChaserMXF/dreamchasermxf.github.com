@@ -105,12 +105,3 @@ Moving object tracking is a classical problem in the field of Computer Vision si
 ## Contact
 [MengXiangfei_job@163.com](mailto:MengXiangfei_job@163.com) (for recruiting business)  
 [XiangfeiMeng@buaa.edu.cn](mailto:XiangfeiMeng@buaa.edu.cn) (for academic communication)
-
-### Organization
-[State Key Laboratory of Virtual Reality Technology and System](http://vrlab.buaa.edu.cn/)  
-[School of Computer Science and Engineering](http://scse.buaa.edu.cn/buaa-css-web/initAction.action)  
-[Beihang University](http://www.buaa.edu.cn/)
-
-### Address
-[Beihang University, Xue Yuan Road No.37, Hai Dian District, Beijing](http://ditu.amap.com/place/B000A830XU)  
-100191, China
