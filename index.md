@@ -3,19 +3,27 @@
 ![Selfie](img/panorama.jpg)  
 Xiangfei Meng is currently a Full-Time Employee in [*Bigo Co., Ltd.*](https://www.bigo.sg/) as a Senior Engineer, specialized in Computer Vision and Computer Graphics. He joined *Bigo* in March, 2018. Before that, he received his master's degree in Computer Science and Technology from [Beihang University](http://www.buaa.edu.cn/) (BUAA), under the supervision of Professor [Hong Qin](https://www.cs.stonybrook.edu/people/faculty/HongQin) in State Key Laboratory of Virtual Reality Technology and Systems, School of Computer Science and Engineering (SCSE). He received his bachelor's degree in Computer Science and Technology from [Civial Aviation University of China](http://www.cauc.edu.cn/zh/) (CAUC) as an "**Outstanding Graduate**" in 2015. He got the honorary title of "**Top-10 College Students in CAUC**" in October 2014. After that, he passed the National Entrance Examination for Postgraduate for SCSE, BUAA in December 2014 as the **top-score student** and attended BUAA as a postgraduate in September 2015.
 
-His research interests include Computer Vision, Machine Learning, and Computer Graphics. Recently, he specifically focuses on video super-resolution in real scenario, and CNN inference frameworks on mobile devices.
+His research interests include Computer Vision, Machine Learning, and Computer Graphics. Recently, he specifically focuses on video quality enhancement and CNN inference frameworks on mobile devices.
+
+## Work Experiences
+|Time|Company|Title|Working Field|
+|:-----------------|:----------|:---------------|:--------------------------------------------|
+| 2018/03 - now    | Bigo      | Senior Engineer | Video Enhancement; CNN inference framework |
+| 2017/09 - 2018/02| YI Tunnel | **Intern**      | Unmanned supermarket |
+| 2017/06 - 2017/09| Microsoft | **Intern**      | Visual Studio |
 
 ## Education
 
-| Time				| School								 |  Phase      | Ranking	|
-| :---------------- | :------------------------------------- | :---------   | :--------- |
-| 2015/09 – 2018/03	| Beihang University					| Postgraduate  | Top 5%	|
-| 2011/09 – 2015/06 | Civil Aviation University of China	| Undergraduate |  Top 5%	|
-| 2008/09 – 2011/06 | Taiyuan No. 5 Middle School			| Senior High	| Top 30%	|
+| Time              | School                             |     Phase     | Ranking |
+| :---------------- | :--------------------------------- | :------------ | :------ |
+| 2015/09 – 2018/03	| Beihang University                 | Postgraduate  | Top 5%	 |
+| 2011/09 – 2015/06 | Civil Aviation University of China | Undergraduate | Top 5%	 |
+| 2008/09 – 2011/06 | Taiyuan No. 5 Middle School        | Senior High	 | Top 30% |
 
 ## Skills
 1. Experienced **C/C++** programming skills with good coding style.
-2. Familiar with **Computer Vision**, **Machine Learning**, and **Computer Graphics**.
+2. Familiar with GPU programming, especially **Metal**.
+3. Familiar with **Computer Vision** and **Computer Graphics**.
 
 ## Internship
 
@@ -34,7 +42,7 @@ Project 1. Cosmos Incident Search Engine
 
 Building a search engine (named *CosmosSearch*) for the Cosmos Incident Management System, which can provide potential solutions to Cosmos users whose cloud jobs are failed. The search engine extracts the key words and domain-specific words from users' error messages and retrieves the similar issues from the existing incident log files, and finally, provide users with the issue descriptions and corresponding solutions. Its main contribution is saving both users' time of submitting incident reports to designated responsible individuals (DRIs), and DRIs' time for laboriously checking each incident reports.
 
-Project 2. Data-Driven Test for Intellisense in Visual Studio
+Project 2. Data-Driven Smart Test for Intellisense in Visual Studio
 
 Building a data-driven test module (named *Playback*) for Intellisense in Visual Studio. The main functionality of Intellisense is to auto-complete the source code while programmers are writing. However, there are countless grammatical token combinations which can hardly be covered by unit tests. Therefore, we built Playback to collect the submitted scripts from cloud, checked each script, and gathered the checking result to generate an Intellisense bug report.
 
@@ -42,7 +50,7 @@ Building a data-driven test module (named *Playback*) for Intellisense in Visual
 The checking process starts with dividing a script consisting of K tokens into K code fragments. The n-th code fragment is cut out from the original script, beginning at the first token and ending at the n-th token. Each code fragment is inputted into Intellisense, from which a list of completion tokens are obtained. Playback then checks whether the next token after the code fragment is contained in the completion list.
 -->
 
-## Projects
+## School Projects
 
 ### 1. Fish Motion Capture and Retargeting by Monocular Camera 
 (2016/05 – 2017/05)
