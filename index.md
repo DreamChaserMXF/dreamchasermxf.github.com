@@ -9,7 +9,7 @@ His research interests include Computer Vision, Machine Learning, and Computer G
 |Time|Company|Title|Working Field|
 |:-----------------|:----------|:---------------|:--------------------------------------------|
 | 2018/03 - now    | Bigo      | Senior Engineer | Video Enhancement; CNN inference framework |
-| 2017/09 - 2018/02| YI Tunnel | **Intern**      | Unmanned supermarket |
+| 2017/10 - 2018/02| YI Tunnel | **Intern**      | Unmanned supermarket |
 | 2017/06 - 2017/09| Microsoft | **Intern**      | Visual Studio |
 
 ## Education
@@ -28,7 +28,7 @@ His research interests include Computer Vision, Machine Learning, and Computer G
 ## Internship
 
 ### 1. YI Tunnel - Algorithm Engineer
-(2017/10/09 - 2018/03/15)
+(2017/10 - 2018/02)
 
 Project 1. Unmanned Supermarket
 
@@ -36,7 +36,7 @@ Participating in the design and implementation of the unmanned supermarket syste
 
 
 ### 2. Microsoft - Software Development Engineer
-(2017/06/01 - 2017/09/01)
+(2017/06 - 2017/09)
 
 Project 1. Cosmos Incident Search Engine
 
