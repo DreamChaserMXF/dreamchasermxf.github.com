@@ -25,7 +25,21 @@ His research interests include Computer Vision, Machine Learning, and Computer G
 2. Familiar with GPU programming, especially **Metal**.
 3. Familiar with **Computer Vision** and **Computer Graphics**.
 
-## Internship
+## Company Projects
+
+### 1. CNN Inference Framework
+
+CNN inference framework in mobile devices. Focused on Metal implementation of convolution algorithm on iOS platform. 
+
+### 2. Video Super Resolution
+
+Video super resolution algorithms. Especially focused on the real-scenario application on both mobile devices and GPU server.
+
+### 3. Data-Driven Face Animation (Animoji)
+
+Data-driven face animation on mobile devices. Track expression of the face captured by camera, and retarget it to a cartoon model in real time.
+
+## Internships
 
 ### 1. YI Tunnel - Algorithm Engineer
 (2017/10 - 2018/02)
