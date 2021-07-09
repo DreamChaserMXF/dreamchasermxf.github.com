@@ -30,26 +30,29 @@
 
 ### 1. Deep Learning Inference Engine (2020)
 
-- Deep learning inference engine on mobile devices. Focused on Metal for iPhone.
-
-
+- Deep learning inference engine on mobile devices. Focused on GPU acceleration (Metal) for iOS mobile phone.
 - Top-level inference speed on typical CNN models (mobilenet, resnet, densenet, etc.) among common commercial inference engines (TFLite, MNN, TNN, CoreML).
+- Fastest Metal implementation of wingorad convolution compared with all available inference engines.
+- DSP integration with low power and high performance.
 
 
-- Fastest Metal implementation of wingorad convolution compared with all available Inference Engines.
+### 2. Video Enhancement (2019)
 
+#### Video Super Resolution
+- Video super resolution algorithms for both light-weight version (mobile device, ML algorithm) and heavy-computation version (GPU server, deep learning).
+- Focused on the real-scenario application (with noise, codec artifacts, and long video). Solved various issues when applying deep neural network into real scenario.
+- Video demo is not released for commercial issue.
 
-### 2. Video Super Resolution (2019)
+#### Other Algorithms
+- Video Color Enhancement.
+- Video Temporal Stabilization.
+- Video Denoise.
 
-- Video super resolution algorithms for both light-weight version (mobile device) and heavy-computation version (GPU server).
-- Focused on the real-scenario application.
-- [video demo]()
-
-### 3. Data-Driven Face Animation (2018)
+### 3. Data-Driven Face Animation (emoji) (2018)
 
 - Data-driven face animation on mobile devices. Track expression of the face captured by camera, and retarget it to a cartoon model in real time.
-- 3DMM and linear optimization.
-- Rendering with GLES 2.0.
+- 3DMM, blendshape, and linear optimization.
+- Android demo development, including camera API and rendering with GLES 2.0.
 
 ## School Projects
 
