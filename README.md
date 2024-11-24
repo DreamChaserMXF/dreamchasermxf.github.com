@@ -5,6 +5,8 @@
 
    His research interests include Computer Vision, Machine Learning, and Computer Graphics. Recently, he focused on real-time Face Beauty Algorithms on mobile devices.
 
+   Personally, he is highly interested in playing musical instruments. He is skilled at playing the Chinese flute（竹笛）. Recently, he embarked on learning to play the piano from square one.
+
 ## Work Experiences
 
 | Time              | Company   | Title          | Working Field                                     |
