@@ -31,11 +31,10 @@
 
 ### 1. Face Beauty (2021~now)
 
-- Responsible for the face beauty effect in BigoLive.
+- Responsible for the face beauty effect in BigoLive. Leading a stable and efficient team consisting of 4 team members (including myself).
 - Improved the development quality. Reduced the frequency of online issue reporting from 1 issue per day to 1 issue per month.
 - Optimized the effect of skin smoothing, beauty items, and face reshaping items to the industry-leading level. Used the latest AI techniques to further raise the user experience.
-- Launched 3 rounds of face beauty localization to enhance the experience of native users. Received highly positive user experience feedback.
-- Built a stable and efficient team.
+- Launched 3 rounds of region-oriented face beauty optimization to enhance the experience of native users. Received highly positive user experience feedback.
 
 ### 2. Deep Learning Inference Engine (2020)
 
