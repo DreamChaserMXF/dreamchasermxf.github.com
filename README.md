@@ -38,6 +38,7 @@
 
 - 短视频 app 实时录制漫画脸、变老变小变年轻等效果，需要一个支持移动端实时对 GAN 模型做推理的引擎。
 - 在移动端深度学习推理引擎中，独立负责 Metal（iOS GPU）优化，成功支持 xx（海外短视频app） 的 GAN 模型上线和实时推理。
+- ![CarttonStyleTeam](img/CartoonStyleTeam.jpg)
 - 在 Metal 上实现业界最快的 Winograd 卷积算法，超越已知最快的 TFlite 约 15%~25%。
 - 从编译选项、图优化、线程调度、计算优化、访存优化上全面提升推理引擎性能。2021 年 Metal 速度达到业界 Top 1。
 - DSP 推理支持（失败）。
@@ -80,24 +81,23 @@
 
    ![CornellBox](img/CornellBox.png)
 
-    纯兴趣驱动，C++实现一套光线追踪渲染器，支持三角形和球形两种形状。支持全局光照（直接光照+间接光照），包含环境光、漫反射、高光、反射、投射、软阴影、渗色。渲染康奈尔盒子如上图。
+纯兴趣驱动，C++实现一套光线追踪渲染器，支持三角形和球形两种形状。支持全局光照（直接光照+间接光照），包含环境光、漫反射、高光、反射、投射、软阴影、渗色。渲染康奈尔盒子如上图。
 
-    Implemented a ray tracer as an offline renderer. This renderer is equipped with a parser to analyze model files containing triangles and spheres. The scene is then rendered with global illumination, which includes effects of ambient, diffuse, specular, reflection, refraction, soft shadow and color bleeding. The rendering process is speeded up by OpenMP with thread-level parallelization.
+Implemented a ray tracer as an offline renderer. This renderer is equipped with a parser to analyze model files containing triangles and spheres. The scene is then rendered with global illumination, which includes effects of ambient, diffuse, specular, reflection, refraction, soft shadow and color bleeding. The rendering process is speeded up by OpenMP with thread-level parallelization.
 
 ### 4. Pascal Compiler (2015)
 
    ![Assembly](img/assembly.png)
 
-    纯兴趣驱动，用 C++ 实现一套 Pascal（类C的面向过程语言）编译器。可将高级语言翻译成 intel-i386 汇编代码执行。编译期支持嵌套函数、递归调用、值传递与引用传递功能。
+纯兴趣驱动，用 C++ 实现一套 Pascal（类C的面向过程语言）编译器。可将高级语言翻译成 intel-i386 汇编代码执行。编译器支持嵌套函数、递归调用、值传递与引用传递功能。
 
-
- 	Implemented a Pascal Compiler using pure C++ without other lexical/syntax tools. The compiler parses Pascal source code and translates it to Intel-i386 assembly code. The assembled executable can run on the Windows operating system. The compiler provides full support for nested function definitions, recursion callings of functions, and the parameter passing either by values or references.
+ Implemented a Pascal Compiler using pure C++ without other lexical/syntax tools. The compiler parses Pascal source code and translates it to Intel-i386 assembly code. The assembled executable can run on the Windows operating system. The compiler provides full support for nested function definitions, recursion callings of functions, and the parameter passing either by values or references.
 
 ### 5. Spammer Detection in Social Networks (2014)
 
-    用 C4.5 决策树，自动检测新浪微博上的垃圾账号。10折交叉验证，得到 0.706 F1 Score。
+用 C4.5 决策树，自动检测新浪微博上的垃圾账号。10折交叉验证，得到 0.706 F1 Score。
 
-   Spammer detection is a typical scenario of the application of classifiers. To detect spammers in social networks, we collected 4109 profiles from [Weibo](http://weibo.com/), extracted their features, and delivered them to several classifiers. We implemented a Bayesian classifier and a C4.5 Decision Tree classifier. Bayesian classifier is theoretically optimal as long as the conditional probability density functions are known, and the Decision Tree is independent of dimensions. Through the 10-fold cross-validation, the Bayes Classifier showed 58.3% in recall, 85.4% in precision, and 0.693 in F1-Measure, and the Decision Tree showed 60.1% in recall rate, 85.4% in precision, and 0.706 in F1-Measure.
+Spammer detection is a typical scenario of the application of classifiers. To detect spammers in social networks, we collected 4109 profiles from [Weibo](http://weibo.com/), extracted their features, and delivered them to several classifiers. We implemented a Bayesian classifier and a C4.5 Decision Tree classifier. Bayesian classifier is theoretically optimal as long as the conditional probability density functions are known, and the Decision Tree is independent of dimensions. Through the 10-fold cross-validation, the Bayes Classifier showed 58.3% in recall, 85.4% in precision, and 0.693 in F1-Measure, and the Decision Tree showed 60.1% in recall rate, 85.4% in precision, and 0.706 in F1-Measure.
 
    Publication:
    孟祥飞, 徐路, 王思雨. 基于新浪微博的社交网络垃圾用户分析与检测[J]. 科技与创新, 2014(15):125-127. [[pdf](paper/基于新浪微博的社交网络垃圾用户分析与检测.pdf)]
@@ -107,16 +107,16 @@
 
    ![4cars](img/4cars.png)
 
-    运动目标检测是传统 CV 领域的一个基础问题。它可以提供运动目标的有无、位置、速度、轨迹、包围盒等信息，为后续高级语义分析提供支持。
+运动目标检测是传统 CV 领域的一个基础问题。它可以提供运动目标的有无、位置、速度、轨迹、包围盒等信息，为后续高级语义分析提供支持。
 
-    我们实现了基于静态相机的实时运动目标检测。
+我们实现了基于静态相机的实时运动目标检测。
 
 1. 使用混合高斯模型（GMM）对前背景像素做建模和分割
 2. 使用形态学操作去噪，并定位图像中的连通域。
 3. 使用最大先验概率算法，对前后帧的运动目标做关联跟踪，并处理目标的分裂、合并、出现、消失。
 4. 使用卡尔曼滤波，跟踪运动目标轨迹。
 
-    在一个典型的桌面 PC 上（2.9GHz CPU，4GB内存），对 640x480 图像，处理帧率可达 20fps，满足实时标准。
+在一个典型的桌面 PC 上（2.9GHz CPU，4GB内存），对 640x480 图像，处理帧率可达 20fps，满足实时标准。
 
    Moving object tracking is a classical problem of Computer Vision since it can provide essential information on the shape and motion of the foreground objects.
 
